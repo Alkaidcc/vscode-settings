@@ -1,0 +1,53 @@
+{ 
+  // Visuals
+  "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+
+  //Editor
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.untrackedChanges": "separate",
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "first",
+  "editor.lineNumbers": "interval",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": false
+  },
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 5,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.tree.expandMode": "singleClick",
+  
+  // Extension Configs
+  "errorLens.enabledDiagnosticLevels": [
+      "warning",
+      "error"
+  ],
+  "errorLens.excludeBySource": [
+      "cSpell",
+      "Grammarly",
+      "eslint"
+  ],
+  "eslint.quiet": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "json5"
+  ]
+}

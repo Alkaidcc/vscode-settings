@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    // error lint in vscode editor
+    "usernamehw.errorlens",
+    // word spell check
+    "streetsidesoftware.code-spell-checker",
+    // eslint
+    "dbaeumer.vscode-eslint",
+    // GitHub Theme(GitHub Dark Dimmed) personal preference :)
+    "GitHub.github-vscode-theme",
+    // git enhancement
+    "eamodio.gitlens",
+    // sort your JSON Object
+    "richie5um2.vscode-sort-json",
+    // sort your package.json
+    "unional.vscode-sort-package-json"
+  ]
+}
